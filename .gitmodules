@@ -1,0 +1,4 @@
+[submodule "freyr"]
+	path = freyr
+	url = https://github.com/Maxmystere/freyr-js.git
+	branch = Add-MBID-tag-Mutagen

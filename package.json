@@ -1,0 +1,5 @@
+{
+	"scripts": {
+		"build": "pyinstaller --onefile AtomicParsleyMutagen.py"
+	  }
+}
